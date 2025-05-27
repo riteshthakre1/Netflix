@@ -30,7 +30,7 @@ A responsive front-end **Netflix Clone** built using **HTML5** and **CSS3**. Thi
 
 | Desktop View | Mobile View |
 | ------------ | ----------- |
-| ![Desktop](asset/s2.png) | ![Mobile](asset/s3.png) |
+| ![Desktop](asset/s2.png) | ![Mobile](asset/s3.jpg) |
 
 ---
 
